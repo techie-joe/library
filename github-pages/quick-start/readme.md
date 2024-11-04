@@ -1,4 +1,4 @@
-> [GitHub Pages Walkthrough](../) / Qucik start
+> [GitHub Pages Walkthrough](../) / Quick start
 
 ---
 
