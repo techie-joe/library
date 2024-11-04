@@ -1,4 +1,4 @@
-# GitHub Pages Walkthrough
+# Techie Joe's GitHub Pages Walkthrough
 
 Learn how to create a website directly from a repository on GitHub.
 ---
