@@ -2,7 +2,7 @@
 
 ## Quick start
 
-The quickest way to get up and running is by using the `Jekyll Theme Chooser` to load a pre-made theme. You can then modify your site content and style.
+The quickest way to get up and running is by using a pre-made theme. You can then modify your site content and style by editing the source code.
 
 This walktrough will lead you through creating a user site at `[username].github.io`.
 
@@ -52,9 +52,21 @@ To customize your site even more, you can use Jekyll, a static site generator wi
 
 ---
 
+## Securing site with HTTPS
+
+HTTPS adds a layer of encryption that prevents others from snooping on or tampering with traffic to your site. You can enforce HTTPS for your GitHub Pages site to transparently redirect all HTTP requests to HTTPS.
+
+> See [this guide](https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https)
+
+---
+
 ## Deleting site
-You can delete a site. See [this guide](https://docs.github.com/en/pages/getting-started-with-github-pages/deleting-a-github-pages-site).  
-OR Unpublish it. See [this guide](https://docs.github.com/en/pages/getting-started-with-github-pages/unpublishing-a-github-pages-site).
+
+> You can delete a site. See [this guide](https://docs.github.com/en/pages/getting-started-with-github-pages/deleting-a-github-pages-site).  
+
+OR
+
+> Unpublish it. See [this guide](https://docs.github.com/en/pages/getting-started-with-github-pages/unpublishing-a-github-pages-site).
 
 ---
 
