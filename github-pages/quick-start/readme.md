@@ -18,7 +18,7 @@ Before you can create your site, you must have a repository for your site on Git
 
 Once completed, you should be able to visit `[username].github.io` to view your new website. Note that it can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub. You can see the deployment process in `Actions` tab.
 
-> All the above steps are explained in [this guide](https://docs.github.com/en/pages/quickstart).
+> All the above steps are explained in [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart).
 
 ---
 
