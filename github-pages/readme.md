@@ -11,7 +11,7 @@ The quickest way to get up and running is by using the `Jekyll Theme Chooser` to
 
 This walktrough will lead you through creating a user site at `[username].github.io`.
 
- > Read [this guide](https://docs.github.com/en/pages/quickstart).
+ > Read [this guide](./quickstart).
 
 ## Examples
 
@@ -55,8 +55,12 @@ If your site exceeds these usage quotas, GitHub may not be able to serve your si
 
 When a GitHub Pages site is visited, the visitor's IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
+## Sensitive data
+
+GitHub Pages sites are publicly available on the internet, even if the repository for the site is private. If you have sensitive data in your site's repository, you may want to remove the data before publishing.
+
 ## Getting started
 
 This walktrough will lead you through creating a user site at `[username].github.io`.
 
- > Read [this guide](https://docs.github.com/en/pages/quickstart).
+ > Read [this guide](./quickstart).
