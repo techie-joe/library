@@ -47,3 +47,8 @@ You can also add a theme to customize your site’s look and feel. For more info
 To customize your site even more, you can use Jekyll, a static site generator with built-in support for GitHub Pages. For more information, see "[About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)".
 
 ---
+
+## Deleting site
+You can delete a GitHub Pages site. See [this guide](https://docs.github.com/en/pages/getting-started-with-github-pages/deleting-a-github-pages-site)
+
+---
