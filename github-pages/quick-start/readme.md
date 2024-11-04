@@ -40,6 +40,10 @@ Create the entry file for your site at the top level of the source folder. GitHu
 
 You can add more pages to your site by creating more new files in `.html` or `.md`. Each file will be available on your site in the same directory structure as your publishing source.
 
+You can display a custom 404 error page when people try to access nonexistent pages on your site. See [this guide](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site).
+
+---
+
 ## Customizations
 
 You can also add a theme to customize your site’s look and feel. For more information, see "[Adding a theme to your GitHub Pages site using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)".
@@ -53,3 +57,7 @@ You can delete a site. See [this guide](https://docs.github.com/en/pages/getting
 OR Unpublish it. See [this guide](https://docs.github.com/en/pages/getting-started-with-github-pages/unpublishing-a-github-pages-site).
 
 ---
+
+## Further reading
+
+> Read about front matter in the [Jekyll documentation](https://jekyllrb.com/docs/frontmatter)
