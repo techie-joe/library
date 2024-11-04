@@ -10,9 +10,10 @@ The quickest way to set up your site on GitHub is by using a pre-made theme. You
 
 ## Creating a repository for your site
 
-Before you can create your site, you must have a repository for it. Create a new one or use an existing repository. See "[Creating a repository for your site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-a-repository-for-your-site)."
+Before you can create your site, you must have a repository for it. Create a new one or use an existing repository.  
+See "[Creating a repository for your site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-a-repository-for-your-site)."
 
-1. On GitHub, Navigate to your site's repository.
+1. On GitHub, navigate to your site's repository.
 2. Under the repository, go to the repository `Settings` tab then look for `> Code and automation > Pages`. 
 3. Under the `Build and deployment > Source`, select `Deploy from a branch`, then use the branch dropdown menu and select a publishing source.
 
@@ -26,7 +27,8 @@ Once completed, you should be able to view your new website at `[username].githu
 
 Create the entry file for your site at the top level of the source folder. GitHub Pages will look for an `index.html`, `index.md`, or `README.md` file as the entry file for your site. You can add more pages to your site by creating more new files in `.html` or `.md`. Each file will be available on your site in the same directory structure as your publishing source.
 
-You can create a custom 404 error page for people trying to access nonexistent pages on your site. See "[Creating a custom 404 page for your GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)".
+You can create a custom 404 error page for people trying to access nonexistent pages on your site.  
+See "[Creating a custom 404 page for your GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)".
 
 ---
 
