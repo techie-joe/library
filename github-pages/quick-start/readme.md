@@ -75,7 +75,9 @@ For more information, see "[Adding a theme to your GitHub Pages site using Jekyl
 
 To set variables and metadata, such as a title and layout, for a page or post on your site, you can add YAML front matter to the top of any Markdown or HTML file. Read about front matter in the [Jekyll documentation](https://jekyllrb.com/docs/frontmatter)
 
-You can add site.github to a post or page to add any repository references metadata to your site.  
+## Repository metadata
+
+You can add `site.github` to a post or page to add any repository metadata to your site.  
 For more information, see "[Using site.github](https://jekyll.github.io/github-metadata/site.github/)" in the Jekyll Metadata documentation.
 
 ---
