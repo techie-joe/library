@@ -9,7 +9,7 @@ This walkthrough guide is written following the official [GitHub Pages Documenta
 
 ## Quick start
 
-The quickest way to set up your site is by using a pre-made theme. You can then modify your site content and style by editing the source code. This guide will lead you through creating a user site at `[username].github.io`.
+The quickest way to set up your site is by using a pre-made theme. You can then modify your site content and style by editing the source code.
 
  > Read [this guide](./quick-start/).
 
