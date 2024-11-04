@@ -22,10 +22,19 @@ Once completed, you should be able to view your new website at `[username].githu
 
 ---
 
+## Creating entry files and pages
+
+Create the entry file for your site at the top level of the source folder. GitHub Pages will look for an `index.html`, `index.md`, or `README.md` file as the entry file for your site. You can add more pages to your site by creating more new files in `.html` or `.md`. Each file will be available on your site in the same directory structure as your publishing source.
+
+You can create a custom 404 error page for people trying to access nonexistent pages on your site. See "[Creating a custom 404 page for your GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)".
+
+---
+
 ## Changing the title and description
 
 By default, the title of your site is the repository name. You can change the title and description by editing the `_config.yml` file in your repository.
 
+> At the top level of your source folder ..  
 > Edit > `_config.yml`
 
 ```yml
@@ -33,45 +42,28 @@ title: Your site's title
 description: Your site's descriptions.
 ```
 
-> See [this guide](https://docs.github.com/en/pages/quickstart#changing-the-title-and-description)
+> For detailed instruction, see "[Changing the title and description](https://docs.github.com/en/pages/quickstart#changing-the-title-and-description)".
 
 ---
 
-## Creating entry files
-
-Create the entry file for your site at the top level of the source folder. GitHub Pages will look for an `index.html`, `index.md`, or `README.md` file as the entry file for your site.
-
----
-
-## Creating pages
-
-You can add more pages to your site by creating more new files in `.html` or `.md`. Each file will be available on your site in the same directory structure as your publishing source.
-
-You can display a custom 404 error page when people try to access nonexistent pages on your site. See [this guide](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site).
-
----
-
-## Customizations
+## Theme customizations
 
 The quickest way to apply a theme to your site is by using `remote_theme`.
 
 > Edit > `_config.yml`
+> Add ..
 
 ```yml
-remote_theme: nikahmadz/pages
+remote_theme: [theme-repository]
+```
+for example :
+```yml
+remote_theme: techie-joe/pages
 ```
 
 To customize your site even more, you can use Jekyll, a static site generator with built-in support for GitHub Pages. For more information, see "[About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)".
 
-You can also add a theme to customize your site’s look and feel. For more information, see "[Adding a theme to your GitHub Pages site using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)".
-
----
-
-## Securing site with HTTPS
-
-HTTPS adds a layer of encryption that prevents others from snooping on or tampering with traffic to your site. You can enforce HTTPS for your GitHub Pages site to transparently redirect all HTTP requests to HTTPS.
-
-> See [this guide](https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https)
+You can also add your own theme to customize your site’s look and feel even more. For more information, see "[Adding a theme to your GitHub Pages site using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)".
 
 ---
 
@@ -83,19 +75,29 @@ GitHub Pages supports using custom domains, or changing the root of your site's 
 
 ---
 
+## Securing site with HTTPS
+
+HTTPS adds a layer of encryption that prevents others from snooping on or tampering with traffic to your site. You can enforce HTTPS for your GitHub Pages site to transparently redirect all HTTP requests to HTTPS.
+
+> See "[Securing your GitHub Pages site with HTTPS](https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https)".
+
+---
+
 ## Deleting site
 
-> You can delete a site. See [this guide](https://docs.github.com/en/pages/getting-started-with-github-pages/deleting-a-github-pages-site).  
+> You can delete a site. See "[Deleting a GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/deleting-a-github-pages-site)".  
 
 OR
 
-> Unpublish it. See [this guide](https://docs.github.com/en/pages/getting-started-with-github-pages/unpublishing-a-github-pages-site).
+> Unpublish it. See "[Unpublishing a GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/unpublishing-a-github-pages-site)".
 
 ---
 
 ## Troubleshooting errors
 
-> See [this guide](https://docs.github.com/en/pages/getting-started-with-github-pages/troubleshooting-404-errors-for-github-pages-sites).
+This guide will help you troubleshoot common reasons you may be seeing a 404 error.
+
+> See "[Troubleshooting 404 errors for GitHub Pages sites](https://docs.github.com/en/pages/getting-started-with-github-pages/troubleshooting-404-errors-for-github-pages-sites)".
 
 ---
 
