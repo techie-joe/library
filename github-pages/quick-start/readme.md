@@ -49,6 +49,7 @@ To customize your site even more, you can use Jekyll, a static site generator wi
 ---
 
 ## Deleting site
-You can delete a GitHub Pages site. See [this guide](https://docs.github.com/en/pages/getting-started-with-github-pages/deleting-a-github-pages-site)
+You can delete a site. See [this guide](https://docs.github.com/en/pages/getting-started-with-github-pages/deleting-a-github-pages-site).  
+OR Unpublish it. See [this guide](https://docs.github.com/en/pages/getting-started-with-github-pages/unpublishing-a-github-pages-site).
 
 ---
