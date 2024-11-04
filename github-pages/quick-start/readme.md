@@ -70,6 +70,12 @@ OR
 
 ---
 
+## Troubleshooting errors
+
+> See [this guide](https://docs.github.com/en/pages/getting-started-with-github-pages/troubleshooting-404-errors-for-github-pages-sites).
+
+---
+
 ## Further reading
 
 > Read about front matter in the [Jekyll documentation](https://jekyllrb.com/docs/frontmatter)
