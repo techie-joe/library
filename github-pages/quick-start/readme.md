@@ -1,4 +1,4 @@
-# [Techie Joe’s GitHub Pages Walkthrough](../)
+# [GitHub Pages Walkthrough](../)
 
 This is Techie Joe's walkthrough over the official [GitHub Pages Documentation](https://docs.github.com/en/pages). 
 
