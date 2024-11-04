@@ -3,7 +3,9 @@
 Learn how to create a website directly from a GitHub repository.
 ---
 
-GitHub Pages are public webpages hosted and published through GitHub. You can use GitHub Pages to showcase some open source projects, host a blog, or even share your résumé. This walkthrough guide will help you get started on creating your next website. This guide is written following the official [GitHub Pages Documentation](https://docs.github.com/en/pages) 
+GitHub Pages are public webpages hosted and published through GitHub. You can build website to showcase some open source projects, host a blog, or even share your résumé. Please note that hosting a site using GitHub Pages is subject to the [terms of use](#terms-of-use), [prohibitions](#prohibitions) and some [limitations](#limitations).
+
+This walkthrough guide will help you get started on creating your next website. This guide is written following the official [GitHub Pages Documentation](https://docs.github.com/en/pages) 
 
 ## Quick start
 
@@ -27,11 +29,11 @@ GitHub Pages does not support server-side languages such as PHP, Ruby, or Python
 
 Your use of GitHub Pages is subject to the [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service), including the restrictions on get-rich-quick schemes, sexually obscene content, and violent or threatening content or activity.
 
-## Prohibited uses
+## Prohibitions
 
 GitHub Pages is not intended for or allowed to be used as a free web-hosting service to run your online business, e-commerce site, or any other website that is primarily directed at either facilitating commercial transactions or providing commercial software as a service (SaaS). GitHub Pages sites shouldn't be used for sensitive transactions like sending passwords or credit card numbers.
 
-## Usage limits
+## Limitations
 
 GitHub Pages sites are subject to the following usage limits:
 
