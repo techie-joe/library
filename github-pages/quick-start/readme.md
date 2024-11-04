@@ -50,6 +50,14 @@ You can display a custom 404 error page when people try to access nonexistent pa
 
 ## Customizations
 
+The quickest way to apply a theme to your site is by using `remote_theme`.
+
+> Edit > `_config.yml`
+
+```yml
+remote_theme: nikahmadz/pages
+```
+
 To customize your site even more, you can use Jekyll, a static site generator with built-in support for GitHub Pages. For more information, see "[About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)".
 
 You can also add a theme to customize your site’s look and feel. For more information, see "[Adding a theme to your GitHub Pages site using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)".
