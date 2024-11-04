@@ -11,7 +11,7 @@ The quickest way to get up and running is by using the `Jekyll Theme Chooser` to
 
 This walktrough will lead you through creating a user site at `[username].github.io`.
 
- > Read [this guide](./quickstart).
+ > Read [this guide](./quick-start/).
 
 ## Examples
 
@@ -63,4 +63,4 @@ GitHub Pages sites are publicly available on the internet, even if the repositor
 
 This walktrough will lead you through creating a user site at `[username].github.io`.
 
- > Read [this guide](./quickstart).
+ > Read [this guide](./quick-start/).
