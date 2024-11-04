@@ -61,6 +61,6 @@ GitHub Pages sites are publicly available on the internet, even if the repositor
 
 ## Getting started
 
-This walktrough will lead you through creating a user site at `[username].github.io`.
+This guide will lead you through on creating your next website.
 
  > Read [this guide](./quick-start/).
