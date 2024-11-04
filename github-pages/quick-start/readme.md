@@ -13,7 +13,7 @@ The quickest way to set up your site on GitHub is by using a pre-made theme. You
 Before you can create your site, you must have a repository for it. Create a new one or use an existing repository. See "[Creating a repository for your site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-a-repository-for-your-site)."
 
 1. On GitHub, Navigate to your site's repository.
-2. Under the repository, go to repository `Settings > Code and automation > Pages`. If you cannot see the "Settings" tab, select the  dropdown menu, then click Settings.
+2. Under the repository, go to the repository `Settings` tab then look for `> Code and automation > Pages`. 
 3. Under the `Build and deployment > Source`, select `Deploy from a branch`, then use the branch dropdown menu and select a publishing source.
 
 Once completed, you should be able to visit `[username].github.io/[repository-name]` to view your new website. Note that it can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub. You can see the deployment process in `Actions` tab.
