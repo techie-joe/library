@@ -5,7 +5,7 @@ Learn how to create a website directly from a GitHub repository.
 
 GitHub Pages are public webpages hosted and published through GitHub. You can build website to showcase some open source projects, host a blog, or even share your résumé. Please note that hosting a site using GitHub Pages is subject to the [terms of use](#terms-of-use), [prohibitions](#prohibitions) and some [limitations](#limitations).
 
-This walkthrough guide will help you get started on creating your next website. This guide is written following the official [GitHub Pages Documentation](https://docs.github.com/en/pages) 
+This walkthrough guide is written following the official [GitHub Pages Documentation](https://docs.github.com/en/pages). It will help you get started on creating your next website.
 
 ## Quick start
 
