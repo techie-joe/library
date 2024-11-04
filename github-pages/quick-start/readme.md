@@ -30,6 +30,13 @@ Once completed, you should be able to visit `[username].github.io` to view your 
 
 By default, the title of your site is the repository name. You can change the title and description by editing the `_config.yml` file in your repository.
 
+> Edit > `_config.yml`
+
+```yml
+title: Your site's title
+description: Your site's descriptions.
+```
+
 > See [this guide](https://docs.github.com/en/pages/quickstart#changing-the-title-and-description)
 
 ---
