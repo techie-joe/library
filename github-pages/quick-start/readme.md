@@ -1,14 +1,10 @@
-# [GitHub Pages Walkthrough](../)
-
-> [Intro](../) > Quick start
+> [GitHub Pages Walkthrough](../) / Qucik start
 
 ---
 
 ## Quick start
 
-The quickest way to get up and running is by using a pre-made theme. You can then modify your site content and style by editing the source code.
-
-This walktrough will lead you through creating a user site at `[username].github.io`.
+The quickest way to set up your site is by using a pre-made theme. You can then modify your site content and style by editing the source code. This guide will lead you through creating a user site at `[username].github.io`.
 
 ---
 
