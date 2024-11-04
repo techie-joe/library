@@ -11,7 +11,7 @@ The quickest way to get up and running is by using the `Jekyll Theme Chooser` to
 
 This walktrough will lead you through creating a user site at `[username].github.io`.
 
- > Read [this guide](/quick-start).
+ > Read [this guide](./quick-start).
 
 ## Examples
 
@@ -59,4 +59,4 @@ When a GitHub Pages site is visited, the visitor's IP address is logged and stor
 
 This walktrough will lead you through creating a user site at `[username].github.io`.
 
- > Read [this guide](/quick-start).
+ > Read [this guide](./quick-start).
