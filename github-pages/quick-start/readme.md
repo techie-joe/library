@@ -63,9 +63,11 @@ for example :
 remote_theme: techie-joe/pages
 ```
 
-To customize your site even more, you can use Jekyll, a static site generator with built-in support for GitHub Pages. For more information, see "[About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)".
+To customize your site even more, you can use Jekyll, a static site generator with built-in support for GitHub Pages.  
+For more information, see "[About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)".
 
-You can also add your own theme to customize your site’s look and feel even more. For more information, see "[Adding a theme to your GitHub Pages site using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)".
+You can also add your own theme to customize your site’s look and feel even more.  
+For more information, see "[Adding a theme to your GitHub Pages site using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)".
 
 ---
 
@@ -73,7 +75,8 @@ You can also add your own theme to customize your site’s look and feel even mo
 
 To set variables and metadata, such as a title and layout, for a page or post on your site, you can add YAML front matter to the top of any Markdown or HTML file. Read about front matter in the [Jekyll documentation](https://jekyllrb.com/docs/frontmatter)
 
-You can add site.github to a post or page to add any repository references metadata to your site. For more information, see "[Using site.github](https://jekyll.github.io/github-metadata/site.github/)" in the Jekyll Metadata documentation.
+You can add site.github to a post or page to add any repository references metadata to your site.  
+For more information, see "[Using site.github](https://jekyll.github.io/github-metadata/site.github/)" in the Jekyll Metadata documentation.
 
 ---
 
