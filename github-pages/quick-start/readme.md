@@ -20,7 +20,7 @@ Before you can create your site, you must have a repository for your site on Git
 2. Under the repository, go to repository `Settings > Code and automation > Pages`. If you cannot see the "Settings" tab, select the  dropdown menu, then click Settings.
 3. Under `Build and deployment > Source`, select `Deploy from a branch`, then use the branch dropdown menu and select a publishing source.
 
-Once completed, you should be able to visit `[username].github.io` to view your new website. Note that it can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub.
+Once completed, you should be able to visit `[username].github.io` to view your new website. Note that it can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub. You can see the deployment process in `Actions` tab.
 
 > All the above steps are explained in [this guide](https://docs.github.com/en/pages/quickstart).
 
