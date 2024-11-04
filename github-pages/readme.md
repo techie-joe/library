@@ -3,6 +3,18 @@
 Learn how to create a website directly from a repository on GitHub.
 ---
 
+GitHub Pages are public webpages hosted and published through GitHub. You can use GitHub Pages to showcase some open source projects, host a blog, or even share your résumé. This guide will help get you started on creating your next website. This walkthrough is Techie Joe's notes over the official [GitHub Pages Documentation](https://docs.github.com/en/pages) 
+
+## Quick start
+
+The quickest way to get up and running is by using the `Jekyll Theme Chooser` to load a pre-made theme. You can then modify your site content and style.
+
+This walktrough will lead you through creating a user site at `[username].github.io`.
+
+ > Read [this guide](/quick-start).
+
+## Examples
+
 You can see examples of sites using GitHub Pages in the [GitHub Pages examples](https://github.com/collections/github-pages-examples).
 
 ## Static site generators
@@ -42,3 +54,9 @@ If your site exceeds these usage quotas, GitHub may not be able to serve your si
 ## Data collection
 
 When a GitHub Pages site is visited, the visitor's IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
+
+## Getting started
+
+This walktrough will lead you through creating a user site at `[username].github.io`.
+
+ > Read [this guide](/quick-start).
