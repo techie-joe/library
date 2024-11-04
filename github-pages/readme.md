@@ -7,7 +7,7 @@ GitHub Pages are public webpages hosted and published through GitHub. You can us
 
 ## Quick start
 
-The quickest way to get up and running is by a pre-made theme. You can then modify your site content and style by editing the source code.
+The quickest way to get up and running is by using a pre-made theme. You can then modify your site content and style by editing the source code.
 
 This walktrough will lead you through creating a user site at `[username].github.io`.
 
