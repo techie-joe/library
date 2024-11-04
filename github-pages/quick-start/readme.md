@@ -2,7 +2,7 @@
 
 This is Techie Joe's walkthrough over the official [GitHub Pages Documentation](https://docs.github.com/en/pages). 
 
-> [GitHub Pages](../) > Quick start
+> [Intro](../) > Quick start
 
 ---
 
