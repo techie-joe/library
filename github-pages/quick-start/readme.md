@@ -64,6 +64,14 @@ HTTPS adds a layer of encryption that prevents others from snooping on or tamper
 
 ---
 
+## Custom domains
+
+GitHub Pages supports using custom domains, or changing the root of your site's URL from the default, like `[username].github.io`, to any domain you own, like `[yourdomain.com]`.
+
+> See [this guide](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages).
+
+---
+
 ## Deleting site
 
 > You can delete a site. See [this guide](https://docs.github.com/en/pages/getting-started-with-github-pages/deleting-a-github-pages-site).  
