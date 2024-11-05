@@ -65,6 +65,8 @@ For more information, see "[Adding a theme to your GitHub Pages site using Jekyl
 
 Theme has default data, layouts, includes, and stylesheets stored in folders such as `_data`, `_layouts`, `_includes`, and `_sass`. You can override any of the defaults with your own content. To replace it, make a similar file on your repository giving it the same name as the file you wish to override. See "[Overriding theme defaults](https://jekyllrb.com/docs/themes/#overriding-theme-defaults)".
 
+With a clear understanding of the theme’s files, you can now override any theme file by creating a similarly named file in your site directory.
+
 ## Using front matter
 
 The front matter must be the first thing in the file and must take the form of valid [YAML](https://yaml.org/) set between triple-dashed lines. Any file that contains a front matter block will be processed by the builder as a special file. Here is a basic example:
