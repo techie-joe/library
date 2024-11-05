@@ -26,11 +26,16 @@ Create the entry file for your site at the top level of the source folder. GitHu
 You can create a custom 404 error page for people trying to access nonexistent pages on your site.  
 See "[Creating a custom 404 page for your GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)".
 
+## Customization
+
+GitHub Pages uses Jekyll to build your site by default. Jekyll gives you a lot of flexibility to customize how it builds your site. These options can either be specified in a `_config.yml` or `_config.toml` file placed in your site’s root directory. To customize your site even more, see "[Jekyll Configuration](https://jekyllrb.com/docs/configuration/)".
+
+> Create `_config.yml` file at the root level of your site's directory.
+
 ## Changing the title and description
 
-By default, the title of your site is the repository name. You can change the title and description by editing the `_config.yml` file in your repository.
+By default, the title of your site is the repository name. You can change the title and description by editing the `_config.yml`.
 
-> At the top level of your source folder ..  
 > Edit > `_config.yml`
 
 ```yml
@@ -50,13 +55,13 @@ The quickest way to apply a theme to your site is by using `remote_theme`.
 ```yml
 remote_theme: [theme-repository]
 ```
+
 for example :
 ```yml
 remote_theme: techie-joe/pages
 ```
 
-To customize your site even more, you can use Jekyll, a static site generator with built-in support for GitHub Pages.  
-For more information, see "[About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)".
+I'll be listing my themes too. So be sure to check out [my website](//techie-joe.github.io/).
 
 You can also add your own theme to customize your site’s look and feel even more.  
 For more information, see "[Adding a theme to your GitHub Pages site using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)".
