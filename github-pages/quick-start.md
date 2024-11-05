@@ -11,7 +11,7 @@ description: The quickest way to set up your site on GitHub is by using a pre-ma
 
 The quickest way to set up your site on GitHub is by using a pre-made theme. You can then modify your site content and style by editing the source code.
 
-1. First [create a repository for your site](#create-a-repository-for-your-site).
+1. [Create a repository for your site](#create-a-repository-for-your-site).
 2. [Create entry files and pages](#create-entry-files-and-pages).
 3. [Customize your site](./customization.md).
 
