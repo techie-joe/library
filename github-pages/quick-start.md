@@ -28,6 +28,10 @@ Once completed, you should be able to view your new website at `[username].githu
 
 Create the entry file for your site at the top level of the source folder. GitHub Pages will look for an `index.html`, `index.md`, or `README.md` file as the entry file for your site. You can add more pages to your site by creating more new files in `.html` or `.md`. Each file will be available on your site in the same directory structure as your publishing source.
 
+You can add a new page or post to your site on GitHub Pages.  
+See "[Adding content to your GitHub Pages site using Jekyll
+](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll)"
+
 You can create a custom 404 error page for people trying to access nonexistent pages on your site.  
 See "[Creating a custom 404 page for your GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)".
 
