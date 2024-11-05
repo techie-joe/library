@@ -82,3 +82,7 @@ OR
 This guide will help you troubleshoot common reasons you may be seeing a 404 error.
 
 > See "[Troubleshooting 404 errors for GitHub Pages sites](https://docs.github.com/en/pages/getting-started-with-github-pages/troubleshooting-404-errors-for-github-pages-sites)".
+
+## Further reading
+
+> To customize your site, see [Website Customization](./customization.md)
