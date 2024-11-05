@@ -47,7 +47,7 @@ remote_theme: techie-joe/pages
 I'll be listing my themes too. So be sure to check out [my website](//techie-joe.github.io/).
 
 You can also add your own theme to customize your site’s look and feel even more.  
-For more information, see "[Adding a theme to your GitHub Pages site using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)".
+For more information, see "[About GitHub Jekyll Themes](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#themes)".
 
 ## Overriding theme defaults
 
