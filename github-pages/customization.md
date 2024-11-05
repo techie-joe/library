@@ -11,9 +11,11 @@ description: Learn how to customize your site on a GitHub repository
 
 GitHub Pages uses Jekyll to build your site by default. Jekyll gives you a lot of flexibility to customize how it builds your site. If you're using other site builder besides Jekyll, then the following walthrough guide may not suits you.
 
-Customization options can either be specified in a `_config.yml` or `_config.toml` file placed in your site’s root directory. To customize your site even more, see "[Jekyll Configuration](https://jekyllrb.com/docs/configuration/)".
+Customization options can either be specified in a `_config.yml` or `_config.toml` file placed in your site’s root directory.  
 
 > Create `_config.yml` file at the root level of your site's directory.
+
+To customize your site even more, see "[Jekyll Configuration](https://jekyllrb.com/docs/configuration/)".
 
 ## Changing the title and description
 
