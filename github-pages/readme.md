@@ -1,3 +1,8 @@
+---
+title: GitHub Pages Walkthrough
+description: Learn how to create a website directly from a GitHub repository
+---
+
 # GitHub Pages Walkthrough
 
 Learn how to create a website directly from a GitHub repository
