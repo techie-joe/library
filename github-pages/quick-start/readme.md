@@ -82,7 +82,14 @@ Front matter block are used to set variables and metadata. Between these triple-
 
 ## Metadata variables
 
-Metadata variables such as `site`, `layout`, and `page`, is accessible to your site by referencing it using moustache `{{{ <variable-namespace> }}}`.
+Metadata variables such as `site`, `layout`, and `page`, is accessible to your site by referencing it using moustache `{% raw %} {{ <variable-namespace> }} {% endraw %}`.  
+Example:  
+```md
+{% raw %}
+{{ site.title }}
+{{ page.description }}
+{% endraw %}
+```
 
 Repository metadata variables is exposed to your site in the `site.github` namespace.
 For more information, see "[Using site.github](https://jekyll.github.io/github-metadata/site.github/)".
