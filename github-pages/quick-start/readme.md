@@ -82,18 +82,20 @@ Front matter block are used to set variables and metadata. Between these triple-
 
 ## Metadata variables
 
-Metadata variables, such as the project name, title and description, is accessible to your site using moustache `{{ <metadata-name> }}`.  
-> For example:
-> variables.md
+Metadata variables, such as the project name, title and description, is accessible to your site using moustache `\{{ <metadata-namespace> }}`.  
+
+For example:  
 ```md
-title: {{ site.title }}
-description: {{ site.description }}
+\{{ site.title }}  
+\{{ site.description }}  
 ```
+
 will come out as:
 ```yml
-title: {{ site.title }}
-description: {{ site.description }}
+{{ site.title }}  
+{{ site.description }}  
 ```
+
 > For more information, see "[Using site.github](https://jekyll.github.io/github-metadata/site.github/)" in the Jekyll Metadata documentation.
 
 ## Custom domains
