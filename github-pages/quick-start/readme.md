@@ -81,6 +81,12 @@ Common repository information, such as the project name and description, is avai
 You can add `site.github` on a page to add any repository metadata.  
 For more information, see "[Using site.github](https://jekyll.github.io/github-metadata/site.github/)" in the Jekyll Metadata documentation.
 
+## Overriding theme defaults
+
+Jekyll themes set default data, layouts, includes, and stylesheets. However, you can override any of the theme defaults with your own site content.
+
+To replace layouts or includes in your theme, make a copy in your `_layouts` or `_includes` directory of the specific file you wish to modify, or create the file from scratch giving it the same name as the file you wish to override. See "[Overriding theme defaults](https://jekyllrb.com/docs/themes/#overriding-theme-defaults)".
+
 ## Custom domains
 
 GitHub Pages supports using custom domains, or changing the root of your site's URL from the default, like `[username].github.io`, to any domain you own, like `[yourdomain.com]`.
