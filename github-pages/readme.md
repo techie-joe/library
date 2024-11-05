@@ -17,7 +17,7 @@ You can see examples of sites using GitHub Pages in the [GitHub Pages examples](
 
 ## Static site generators
 
-GitHub Pages publishes any static files that you push to your repository. GitHub Pages will use Jekyll to build your site by default. If you want to use a static site generator other than Jekyll, write a GitHub Actions to build and publish your site, OR disable the Jekyll build process by creating an empty file called `.nojekyll` in the root of your publishing source, then build your site locally.
+GitHub Pages publishes any static files that you push to your repository. GitHub Pages will use Jekyll to build your site by default. Jekyll is a static site generator with built-in support for GitHub Pages. If you want to use a static site generator other than Jekyll, write a GitHub Actions to build and publish your site, OR disable the Jekyll build process by creating an empty file called `.nojekyll` in the root of your publishing source, then build your site locally.
 
 You can create your own static files or use a static site generator to build your site for you. You can also customize your own build process locally or on another server. For more information, see "[Configuring a publishing source for your GitHub Pages site.](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)"
 
