@@ -60,5 +60,5 @@ Typically, Jekyll theme has default assets, data, layouts, includes, and stylesh
 
 ## Further reading
 
-1. [Create a repository for your site](#create-a-repository-for-your-site).
-2. [Create entry files and pages](#create-entry-files-and-pages).
+1. [Create a repository for your site](//techie-joe.github.io/library/github-pages/quick-start.html#create-a-repository-for-your-site).
+2. [Create entry files and pages](//techie-joe.github.io/library/github-pages/quick-start.html#create-entry-files-and-pages).
