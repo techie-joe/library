@@ -82,7 +82,7 @@ Front matter block are used to set variables and metadata. Between these triple-
 
 ## Metadata variables
 
-Metadata variables, such as the project name, title and description, is accessible to your site using moustache `&#123;&#123; <metadata-namespace> &#125;&#125;`.  
+Metadata variables, such as the project name, title and description, is accessible to your site by referencing it using moustache syntax `&#123;&#123; <metadata-variable> &#125;&#125;` or `&#123;% ... %&#125;`.  Available metadata variables are `site`, `layout`, and `page`.
 
 For example:  
 ```md
