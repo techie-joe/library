@@ -32,6 +32,8 @@ GitHub Pages uses Jekyll to build your site by default. Jekyll gives you a lot o
 
 > Create `_config.yml` file at the root level of your site's directory.
 
+> If you're using other site builder besides Jekyll, then the following walthrough guide may not suits you.
+
 ## Changing the title and description
 
 By default, the title of your site is the repository name. You can change the title and description by editing the `_config.yml`.
