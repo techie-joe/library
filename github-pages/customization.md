@@ -1,3 +1,8 @@
+---
+title: GitHub Pages Customization
+description: Learn how to customize your site on a GitHub repository
+---
+
 > [GitHub Pages Walkthrough](./) / Customization
 
 ---
