@@ -63,9 +63,7 @@ For more information, see "[Adding a theme to your GitHub Pages site using Jekyl
 
 ## Overriding theme defaults
 
-Jekyll themes set default data, layouts, includes, and stylesheets. However, you can override any of the theme defaults with your own site content.
-
-To replace layouts or includes in your theme, make a copy in your `_layouts` or `_includes` directory of the specific file you wish to modify, or create the file from scratch giving it the same name as the file you wish to override. See "[Overriding theme defaults](https://jekyllrb.com/docs/themes/#overriding-theme-defaults)".
+Theme has default data, layouts, includes, and stylesheets stored in folders such as `_data`, `_layouts`, `_includes`, and `_sass`. You can override any of the defaults with your own content. To replace it, make a similar file on your repository giving it the same name as the file you wish to override. See "[Overriding theme defaults](https://jekyllrb.com/docs/themes/#overriding-theme-defaults)".
 
 ## Using front matter
 
@@ -82,13 +80,11 @@ Front matter block are used to set variables and metadata. Between these triple-
 
 ## Metadata variables
 
-Metadata variables such as `site`, `layout`, and `page`, is accessible to your site by referencing it using moustache `{% raw %} {{ <variable-namespace> }} {% endraw %}`.  
+Metadata variables such as `site`, `layout`, and `page`, is accessible to your site by referencing it using moustache `{% raw %} {{ [variable-namespace] }} {% endraw %}`.  
 Example:  
 ```md
-{% raw %}
-{{ site.title }}
-{{ page.description }}
-{% endraw %}
+{% raw %} {{ site.title }}
+{{ page.description }} {% endraw %}
 ```
 
 Repository metadata variables is exposed to your site in the `site.github` namespace.
