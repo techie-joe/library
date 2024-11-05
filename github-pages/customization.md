@@ -30,18 +30,20 @@ description: Your site's descriptions.
 
 ## Theme customizations
 
-The quickest way to apply a theme to your site is by using `remote_theme`.
+To apply a theme to your site, set the value of `remote_theme` OR `theme` with the `[THEME-NAME]` of your choice. Check the `_config.yml` of the theme's repository get it's name.
+
+- Set `theme` if you want to use [Supported Theme by GitHub Pages](https://pages.github.com/themes/)
 
 > Edit > `_config.yml`  
-> Add ..
 
-```yml
-remote_theme: [theme-repository]
-```
-
-for example :
 ```yml
 remote_theme: techie-joe/pages
+```
+
+OR
+
+```yml
+theme: jekyll-theme-minimal
 ```
 
 I'll be listing my themes too. So be sure to check out [my website](//techie-joe.github.io/).
