@@ -2,7 +2,7 @@
 
 ---
 
-## Customization
+## Website Customization
 
 GitHub Pages uses Jekyll to build your site by default. Jekyll gives you a lot of flexibility to customize how it builds your site. If you're using other site builder besides Jekyll, then the following walthrough guide may not suits you.
 
