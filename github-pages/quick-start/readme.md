@@ -76,7 +76,9 @@ Front matter block are used to set variables and metadata. Between these triple-
 
 ## Repository metadata
 
-You can add `site.github` to a post or page to add any repository metadata to your site.  
+Common repository information, such as the project name and description, is available to Jekyll sites using `jekyll-github-metadata`. Repository metadata is exposed to your Jekyll site’s configuration in the site.github namespace.
+
+You can add `site.github` on a page to add any repository metadata.  
 For more information, see "[Using site.github](https://jekyll.github.io/github-metadata/site.github/)" in the Jekyll Metadata documentation.
 
 ## Custom domains
