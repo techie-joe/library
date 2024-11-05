@@ -12,8 +12,12 @@ This library holds a collection of code snippets and examples to fuel your progr
 Techie Joe's library is licensed under the [MIT LICENSE](//github.com/techie-joe/library/blob/main/LICENSE). You're allowed to use the code with conditions only requiring preservation of copyright and license notices. All code in this repository were meant for learning or relearning purposes. If you're using it in your project, please consider giving us a credit. Thanks!
 
 
-_  
+&nbsp;  
 ---
 
-| **[techie-joe.github.io](//techie-joe.github.io)** | [My Github Profile](//github.com/techie-joe) | [Wiki](//github.com/techie-joe/techie-joe/wiki) | [Discussions](//github.com/techie-joe/techie-joe/discussions) |
+| **[techie-joe.github.io]()** | [My Github Profile](profile) | [Wiki](wiki) | [Discussions](discussions) |
 
+[website]: //techie-joe.github.io "Techie Joe's Website"
+[profile]: //github.com/techie-joe "Techie Joe's GitHub Profile"
+[wiki]: //github.com/techie-joe/techie-joe/wiki "Techie Joe's Wiki"
+[discussions]: //github.com/techie-joe/techie-joe/discussions "Techie Joe's Discussions"
