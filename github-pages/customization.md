@@ -37,16 +37,16 @@ To apply a theme to your site, set the value of `remote_theme` OR `theme` with t
 - Set `theme` if you want to use [Supported Theme by GitHub Pages](https://pages.github.com/themes/)
 - Set `remote_theme` if you want to use any other Jekyll theme hosted on GitHub.
 
-> Edit > `_config.yml`  
+> Edit > `_config.yml`, set ..  
 
 ```yml
-remote_theme: techie-joe/pages
+theme: jekyll-theme-minimal
 ```
 
 OR
 
 ```yml
-theme: jekyll-theme-minimal
+remote_theme: techie-joe/pages
 ```
 
 I'll be listing my themes too. So be sure to check out [my website](//techie-joe.github.io/).
