@@ -35,6 +35,7 @@ description: Your site's descriptions.
 To apply a theme to your site, set the value of `remote_theme` OR `theme` with the `[THEME-NAME]` of your choice. Check the `_config.yml` of the theme's repository get it's name.
 
 - Set `theme` if you want to use [Supported Theme by GitHub Pages](https://pages.github.com/themes/)
+- Set `remote_theme` if you want to use any other Jekyll theme hosted on GitHub.
 
 > Edit > `_config.yml`  
 
