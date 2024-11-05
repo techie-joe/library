@@ -1,3 +1,8 @@
+---
+title: GitHub Pages Quick Start
+description: The quickest way to set up your site on GitHub is by using a pre-made theme.
+---
+
 > [GitHub Pages Walkthrough](./) / Quick start
 
 ---
