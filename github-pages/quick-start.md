@@ -32,18 +32,62 @@ Once completed, you should be able to view your new website at `[username].githu
 
 Create the entry file for your site at the top level of the source folder. GitHub Pages will look for an `index.html`, `index.md`, or `README.md` file as the entry file for your site. You can add more pages to your site by creating more new files in `.html` or `.md`. Each file will be available on your site in the same directory structure as your publishing source.
 
-You can add a new page or post to your site on GitHub Pages.  
+You can add a new **page or post** to your site on GitHub Pages.  
 See "[Adding content to your GitHub Pages site using Jekyll
 ](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll)"
 
-You can create a custom 404 error page for people trying to access nonexistent pages on your site.  
+You can create a **custom 404 error page** for people trying to access nonexistent pages on your site.  
 See "[Creating a custom 404 page for your GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)".
 
-## Customize your site
+Familiarize on the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), and [creating pages](https://jekyllrb.com/docs/pages/). On every content you create, start with the following **front matter**. If you don’t specify the value, default is used.
 
-GitHub Pages uses Jekyll to build your site by default. Jekyll gives you a lot of flexibility to customize how it builds your site. If you're using other site builder besides Jekyll, then the following walthrough guide may not suits you.
+```md
+---
+layout: layout-name
+title: "Title of the article"
+description: "Short description for the article."
+permalink: #optional
+---
+```
 
-> To customize your site, see [Website Customization](./customization.md)
+## Writing contents
+
+Besides HTML, you can use Markdown to write your site contents. Markdown is a lightweight and easy-to-use syntax for styling your content. These are few commonly used syntax ..
+
+```md
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` ~~Strikethrough~~
+
+[Link](url) and ![Image](src)
+
+`inline code`
+> block quote
+
+```
+
+> Read [Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+
+## Using front matter
+
+The front matter must be the first thing in the file and must take the form of valid [YAML](https://yaml.org/) set between triple-dashed lines. Any file that contains a front matter block will be processed by the builder as a special file. Here is a basic example:
+
+```yml
+---
+layout: post
+title: Blogging Like a Hacker
+---
+```
+
+Front matter block are used to set variables and metadata. Between these triple-dashed lines, you can set predefined variables or even create custom ones of your own, such as a title and layout. You can add front matter to the top of any `.html` or `.md` file. Read more about front matter in the [Jekyll documentation](https://jekyllrb.com/docs/frontmatter)
 
 ## Metadata variables
 
@@ -56,6 +100,12 @@ Example:
 
 Repository metadata variables is exposed to your site in the `site.github` namespace.
 For more information, see "[Using site.github](https://jekyll.github.io/github-metadata/site.github/)".
+
+## Customize your site
+
+GitHub Pages uses Jekyll to build your site by default. Jekyll gives you a lot of flexibility to customize how it builds your site. If you're using other site builder besides Jekyll, then the following walthrough guide may not suits you.
+
+> To customize your site, see [Website Customization](./customization.md)
 
 ## Custom domains
 
