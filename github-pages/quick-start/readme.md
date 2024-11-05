@@ -61,6 +61,12 @@ For more information, see "[About GitHub Pages and Jekyll](https://docs.github.c
 You can also add your own theme to customize your site’s look and feel even more.  
 For more information, see "[Adding a theme to your GitHub Pages site using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)".
 
+## Overriding theme defaults
+
+Jekyll themes set default data, layouts, includes, and stylesheets. However, you can override any of the theme defaults with your own site content.
+
+To replace layouts or includes in your theme, make a copy in your `_layouts` or `_includes` directory of the specific file you wish to modify, or create the file from scratch giving it the same name as the file you wish to override. See "[Overriding theme defaults](https://jekyllrb.com/docs/themes/#overriding-theme-defaults)".
+
 ## Using front matter
 
 The front matter must be the first thing in the file and must take the form of valid [YAML](https://yaml.org/) set between triple-dashed lines. Any file that contains a front matter block will be processed by the builder as a special file. Here is a basic example:
@@ -80,12 +86,6 @@ Common repository information, such as the project name and description, is avai
 
 You can add `site.github` on a page to add any repository metadata.  
 For more information, see "[Using site.github](https://jekyll.github.io/github-metadata/site.github/)" in the Jekyll Metadata documentation.
-
-## Overriding theme defaults
-
-Jekyll themes set default data, layouts, includes, and stylesheets. However, you can override any of the theme defaults with your own site content.
-
-To replace layouts or includes in your theme, make a copy in your `_layouts` or `_includes` directory of the specific file you wish to modify, or create the file from scratch giving it the same name as the file you wish to override. See "[Overriding theme defaults](https://jekyllrb.com/docs/themes/#overriding-theme-defaults)".
 
 ## Custom domains
 
