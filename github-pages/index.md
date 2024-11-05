@@ -14,7 +14,7 @@ GitHub Pages are public webpages hosted and published through GitHub. You can bu
 
 The quickest way to set up your site is by using a pre-made theme. You can then modify your site content and style by editing the source code.
 
- > Read [this guide](./quick-start.md).
+> Read "[GitHub Pages Walkthrough / Quick start](./quick-start.md)".
 
 ## Examples
 
@@ -66,4 +66,4 @@ GitHub Pages sites are publicly available on the internet, even if the repositor
 
 This guide will lead you through on creating your next website.
 
- > Read [this guide](./quick-start.md).
+> Read "[GitHub Pages Walkthrough / Quick start](./quick-start.md)".
