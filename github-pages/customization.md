@@ -9,7 +9,7 @@ description: Learn how to customize your site on a GitHub repository
 
 ## Website Customization
 
-GitHub Pages uses Jekyll to build your site by default. Jekyll gives you a lot of flexibility to customize how it builds your site. If you're using other site builder besides Jekyll, then the following walthrough guide may not suits you.
+GitHub Pages uses Jekyll to build your site by default. Jekyll gives you a lot of flexibility to customize how it builds your site. If you're using other site builder besides Jekyll, then the following walkthrough guide may not suits you. You should have a repository set for your site, if you haven't, see "[Create a repository for your site](https://techie-joe.github.io/library/github-pages/quick-start.html#create-a-repository-for-your-site).
 
 Customization options can either be specified in a `_config.yml` or `_config.toml` file placed in your site’s root directory.  
 
@@ -70,3 +70,8 @@ title: Blogging Like a Hacker
 ```
 
 Front matter block are used to set variables and metadata. Between these triple-dashed lines, you can set predefined variables or even create custom ones of your own, such as a title and layout. You can add front matter to the top of any `.html` or `.md` file. Read more about front matter in the [Jekyll documentation](https://jekyllrb.com/docs/frontmatter)
+
+## Further reading
+
+1. [Create a repository for your site](#create-a-repository-for-your-site).
+2. [Create entry files and pages](#create-entry-files-and-pages).
