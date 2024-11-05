@@ -11,7 +11,11 @@ description: The quickest way to set up your site on GitHub is by using a pre-ma
 
 The quickest way to set up your site on GitHub is by using a pre-made theme. You can then modify your site content and style by editing the source code.
 
-## Creating a repository for your site
+1. First [create a repository for your site](#create-a-repository-for-your-site).
+2. [Create entry files and pages](#create-entry-files-and-pages).
+3. [Customize your site](./customization.md).
+
+## Create a repository for your site
 
 Before you can create your site, you must have a repository for it. Create a new one or use an existing repository.  
 See "[Creating a repository for your site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-a-repository-for-your-site)."
@@ -24,7 +28,7 @@ Once completed, you should be able to view your new website at `[username].githu
 
 > For detailed explanations of all the steps mentioned above, read [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart).
 
-## Creating entry files and pages
+## Create entry files and pages
 
 Create the entry file for your site at the top level of the source folder. GitHub Pages will look for an `index.html`, `index.md`, or `README.md` file as the entry file for your site. You can add more pages to your site by creating more new files in `.html` or `.md`. Each file will be available on your site in the same directory structure as your publishing source.
 
@@ -35,7 +39,7 @@ See "[Adding content to your GitHub Pages site using Jekyll
 You can create a custom 404 error page for people trying to access nonexistent pages on your site.  
 See "[Creating a custom 404 page for your GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)".
 
-## Customization
+## Customize your site
 
 GitHub Pages uses Jekyll to build your site by default. Jekyll gives you a lot of flexibility to customize how it builds your site. If you're using other site builder besides Jekyll, then the following walthrough guide may not suits you.
 
