@@ -80,12 +80,21 @@ title: Blogging Like a Hacker
 
 Front matter block are used to set variables and metadata. Between these triple-dashed lines, you can set predefined variables or even create custom ones of your own, such as a title and layout. You can add front matter to the top of any `.html` or `.md` file. Read more about front matter in the [Jekyll documentation](https://jekyllrb.com/docs/frontmatter)
 
-## Repository metadata
+## Metadata variables
 
-Common repository information, such as the project name and description, is available to Jekyll sites using `jekyll-github-metadata`. Repository metadata is exposed to your Jekyll site’s configuration in the site.github namespace.
-
-You can add `site.github` on a page to add any repository metadata.  
-For more information, see "[Using site.github](https://jekyll.github.io/github-metadata/site.github/)" in the Jekyll Metadata documentation.
+Metadata variables, such as the project name, title and description, is accessible to your site using moustache `{{ <metadata-name> }}`.  
+> For example:
+> variables.md
+```md
+title: {{ site.title }}
+description: {{ site.description }}
+```
+will come out as:
+```yml
+title: {{ site.title }}
+description: {{ site.description }}
+```
+> For more information, see "[Using site.github](https://jekyll.github.io/github-metadata/site.github/)" in the Jekyll Metadata documentation.
 
 ## Custom domains
 
