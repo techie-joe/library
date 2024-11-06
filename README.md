@@ -1,4 +1,4 @@
-# Techie Joe's Code Library
+<h1 id="_hero-title">Techie Joe's Code Library</h1>
 
 A treasure trove for curious coders and wondering enthusiast
 ---
