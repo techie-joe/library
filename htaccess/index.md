@@ -14,11 +14,13 @@ RewriteEngine On
 RewriteCond %{REQUEST_URI} ^/forbidden/ [NC]
 RewriteRule ^ - [R=404,L]
 
-# This rule checks if the requested resource is not an existing file.
+# This rule return 404 if the requested resource is not an existing file.
 RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ - [R=404,L]
 
-# This rule checks if the requested resource is not an existing directory.
+# This rule redirects to index.php if the requested resource is not an existing directory.
 RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ /index.php
 
 # This rule redirects all requests to index.php
 RewriteRule ^ /index.php
