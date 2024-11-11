@@ -74,6 +74,8 @@ Besides HTML, you can use Markdown to write your site contents. Markdown is a li
 
 ```
 
+> Read [Tips and tricks on mastering markdown syntaxes](../markdown/)
+
 > Read [Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 
 ## Using front matter

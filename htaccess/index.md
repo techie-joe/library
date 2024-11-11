@@ -4,7 +4,7 @@
 
 ## Example
 
-```
+```apacheconf
 <IfModule mod_rewrite.c>
 
 # Turn on engine
