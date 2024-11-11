@@ -18,7 +18,7 @@ RewriteRule ^ - [R=404,L]
 RewriteRule ^ /index.php
 
 # This rule return 404 on all request
-RewriteRule ^ /index.php
+RewriteRule ^ - [R=404,L]
 
 </IfModule>
 ```
