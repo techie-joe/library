@@ -22,6 +22,7 @@ RewriteRule ^ - [R=404,L]
 
 </IfModule>
 ```
+{: .highlight }
 
 ## Explanation
 
