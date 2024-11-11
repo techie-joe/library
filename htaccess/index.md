@@ -14,6 +14,12 @@ RewriteEngine On
 RewriteCond %{REQUEST_URI} ^/forbidden/ [NC]
 RewriteRule ^ - [R=404,L]
 
+# This rule checks if the requested resource is not an existing file.
+RewriteCond %{REQUEST_FILENAME} !-f
+
+# This rule checks if the requested resource is not an existing directory.
+RewriteCond %{REQUEST_FILENAME} !-d
+
 # This rule redirects all requests to index.php
 RewriteRule ^ /index.php
 
@@ -40,6 +46,10 @@ RewriteRule ^ - [R=404,L]
 `RewriteCond %{REQUEST_URI} ^/forbidden/ [NC]`: return 404 on all request for forbidden directory.
 
 `^/forbidden/ [NC]`: is a condition statement to check if the requested URL starts with `/forbidden/` (case-insensitive due to the `[NC]` flag).
+
+`RewriteCond %{REQUEST_FILENAME} !-f`: checks if the requested resource is not an existing file.
+
+`RewriteCond %{REQUEST_FILENAME} !-d`: checks if the requested resource is not an existing directory.
 
 #### RewriteRule
 
