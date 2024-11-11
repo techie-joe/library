@@ -4,7 +4,7 @@
 
 ## Example
 
-```apacheconf
+```text
 <IfModule mod_rewrite.c>
 
 # Turn on engine
@@ -22,7 +22,6 @@ RewriteRule ^ - [R=404,L]
 
 </IfModule>
 ```
-{: .highlight }
 
 ## Explanation
 
