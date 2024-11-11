@@ -1,9 +1,11 @@
 # Markdown Syntaxes
 
+Markdown is a light-weight markup language with plain text formatting syntax. It's often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+
 Tips and tricks on mastering markdown syntaxes
 ---
 
-Markdown is a lightweight markup language with plain text formatting syntax. It's often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. Here are some key elements of Markdown syntax:
+Here are some key elements of Markdown syntax:
 
 ```md
 # Header 1
