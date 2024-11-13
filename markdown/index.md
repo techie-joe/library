@@ -1,9 +1,7 @@
-# Markdown Syntaxes
+# Markdown Syntax
+###### Tips and tricks on mastering markdown syntaxes
 
 Markdown is a light-weight markup language with plain text formatting syntax. It's often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-
-Tips and tricks on mastering markdown syntaxes
----
 
 Here are some key elements of Markdown syntax:
 
@@ -22,18 +20,38 @@ Here are some key elements of Markdown syntax:
 
 [Link](url) and ![Image](src)
 
-`inline code`
-> block quote
+> Block quote
+
+`Inline code`
 
 ```
 
 > Read [Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 
-#### Syntax highlighting for code blocks
+## Code blocks
 
-> **Note:** The supported languages for syntax highlighting depends on the builder you use. **GitHub Pages** uses **Jekyll** to build your website published on it's platform. While **Bitbucket** has it's own support list [Bitbucket markdown supported languages](https://bitbucket.org/tutorials/markdowndemo/src/master/#markdown-header-code-and-syntax-highlighting).
+Code blocks can be used to display your codes on your website. Use triple backticks \`\`\` to form a code block, then close it also using triple backticks \`\`\`. Anyting in between will be written in code blocks.
 
-###### List of languages markdown highlights:
+	```
+	Code blocks
+	```
+
+### Syntax highlighting for code blocks
+
+You can also apply code block syntax highlighting by specifying it's language. For example ..
+
+```html
+	```html
+		<html>
+			<title>Html code blocks</title>
+			<body>Will format and render html codes</body>
+		</html>
+	```
+```
+
+The supported languages for syntax highlighting depends on the builder you use. **GitHub Pages** uses **Jekyll** to build your website published on it's platform. While **Bitbucket** has it's own support list [Bitbucket markdown supported languages](https://bitbucket.org/tutorials/markdowndemo/src/master/#markdown-header-code-and-syntax-highlighting).
+
+#### List of languages markdown highlights:
 
 * Cucumber ('*.feature')
 * abap ('*.abap')
