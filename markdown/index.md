@@ -32,7 +32,7 @@ Here are some key elements of Markdown syntax:
 
 Code blocks can be used to display your codes on your website. Use triple backticks \`\`\` to form a code block, then close it with another triple backticks \`\`\`. Anyting in between will be written in code blocks.
 
-````md
+````
 ```
 Code blocks
 ```
@@ -44,7 +44,7 @@ You can also apply syntax highlighting to code blocks by specifying it's languag
 
 ##### For example
 
-````html
+````
 ```html
   <html>
     <title>Html code blocks</title>
@@ -68,7 +68,7 @@ ApacheConf:
   - apache
 ```
 
-````md
+````
 ```apache
 <IfModule mod_rewrite.c>
 
