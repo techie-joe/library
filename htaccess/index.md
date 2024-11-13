@@ -42,7 +42,7 @@ When you turn on the `RewriteEngine` in your `.htaccess` file, you can start usi
 
 This rule redirect requests from `old-page` to `new-page` with a **301 (permanent) redirect**
 
-> Edit `.htaccess`
+> Edit `.htaccess`
 ```apache
 <IfModule mod_rewrite.c>
 
