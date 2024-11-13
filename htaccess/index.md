@@ -11,6 +11,7 @@ The **Options** directive is both complicated and important. Please see [Options
 This simple line of code will prevent users from seeing the contents of directories without an index file.
 
 > Edit `.htaccess`
+
 ```text
 
 # This simple line of code will prevent users from seeing
@@ -42,7 +43,8 @@ When you turn on the `RewriteEngine` in your `.htaccess` file, you can start usi
 
 This rule redirect requests from `old-page` to `new-page` with a **301 (permanent) redirect**
 
-> Edit `.htaccess`
+> Edit `.htaccess`
+
 ```text
 <IfModule mod_rewrite.c>
 
@@ -82,6 +84,7 @@ The `L` flag indicates that this is the last rule to be processed.
 This examples shows few other conditions to use with `RewriteCond`.
 
 > Edit `.htaccess`
+
 ```text
 <IfModule mod_rewrite.c>
 
