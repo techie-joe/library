@@ -120,4 +120,33 @@ RewriteRule ^ - [R=404,L]
 
 `RewriteCond %{REQUEST_FILENAME} !-d`: checks if the requested resource is not an existing directory.
 
+#### More examples
+
+```apache
+<IfModule mod_rewrite.c>
+
+# Turn on engine
+RewriteEngine On
+
+## more ..
+
+# forces all requests to use HTTPS, enhancing the security of your website.
+RewriteCond %{HTTPS} !=on RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# removes the "www" from URLs, redirecting www.example.com to example.com.
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC] RewriteRule ^(.*)$ http://%1/$1
+
+# adds "www" to URLs, redirecting example.com to www.example.com.
+RewriteCond %{HTTP_HOST} !^www\..*$ [NC] RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+
+# redirects all incoming requests to a maintenance.html page, except for requests to maintenance.html itself.
+RewriteCond %{REQUEST_URI} !/maintenance.html$ RewriteRule ^(.*)$ /maintenance.html
+
+# removes trailing slashes from URLs, which can be useful for consistent URL formatting.
+RewriteCond %{REQUEST_FILENAME} !-d RewriteCond %{REQUEST_URI} (.+)/$ RewriteRule ^ %1 [R=301,L]
+
+</IfModule>
+
+```
+
 &nbsp;
