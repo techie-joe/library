@@ -30,7 +30,7 @@ Here are some key elements of Markdown syntax:
 
 ## Code blocks
 
-Code blocks can be used to display your codes on your website. Use triple backticks <code>\`\`\`</code> to form a code block, then close it with another triple backticks <code>\`\`\`</code>. Anyting in between will be written in code blocks.
+Code blocks can be used to display your codes on your website. Use triple backticks \`\`\` to form a code block, then close it with another triple backticks \`\`\`. Anyting in between will be written in code blocks.
 
 ````
 ```
