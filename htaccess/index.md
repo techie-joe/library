@@ -11,6 +11,7 @@ The **Options** directive is both complicated and important. Please see [Options
 This simple line of code will prevent users from seeing the contents of directories without an index file.
 
 > Edit `.htaccess`
+
 ```apache
 
 # This simple line of code will prevent users from seeing
@@ -97,7 +98,7 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^ - [R=404,L]
 
 # This rule redirects to index.php if the requested resource is not an existing directory.
-RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^ /index.php
 
 # This rule redirects all requests to index.php
