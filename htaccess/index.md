@@ -11,7 +11,7 @@ The **Options** directive is both complicated and important. Please see [Options
 This simple line of code will prevent users from seeing the contents of directories without an index file.
 
 > Edit `.htaccess`
-```text
+```apache
 
 # This simple line of code will prevent users from seeing
 # the contents of directories without an index file.
@@ -43,7 +43,7 @@ When you turn on the `RewriteEngine` in your `.htaccess` file, you can start usi
 This rule redirect requests from `old-page` to `new-page` with a **301 (permanent) redirect**
 
 > Edit `.htaccess`
-```text
+```apache
 <IfModule mod_rewrite.c>
 
 # Turn on engine
@@ -82,7 +82,7 @@ The `L` flag indicates that this is the last rule to be processed.
 This examples shows few other conditions to use with `RewriteCond`.
 
 > Edit `.htaccess`
-```text
+```apache
 <IfModule mod_rewrite.c>
 
 # Turn on engine
