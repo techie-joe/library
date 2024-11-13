@@ -44,6 +44,7 @@ When you turn on the `RewriteEngine` in your `.htaccess` file, you can start usi
 This rule redirect requests from `old-page` to `new-page` with a **301 (permanent) redirect**
 
 > Edit `.htaccess`
+
 ```apache
 <IfModule mod_rewrite.c>
 
@@ -83,6 +84,7 @@ The `L` flag indicates that this is the last rule to be processed.
 This examples shows few other conditions to use with `RewriteCond`.
 
 > Edit `.htaccess`
+
 ```apache
 <IfModule mod_rewrite.c>
 
