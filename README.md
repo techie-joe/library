@@ -8,8 +8,9 @@ This library holds a collection of code snippets and examples to fuel your progr
 ### Topics
 
 #### GitHub Pages
-- [GitHub Pages](./github-pages/) - Learn how to create a website directly from a GitHub repository.
-- [Markdown](./markdown/) - Tips and tricks on mastering markdown syntaxes.
+- [GitHub Pages](github-pages) - Learn how to create a website directly from a GitHub repository.
+- [Markdown](markdown) - Tips and tricks on mastering markdown syntaxes.
+- [HTML5](html5) - Unleash the Power of HTML5: The Future of Web Development.
 
 #### Apache Web Server
 - [Using .htaccess](./htaccess/) - Explains how to use `.htaccess` in your website.
