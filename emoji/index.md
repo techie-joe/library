@@ -6,3 +6,30 @@ An emoji is a small digital image or icon used to express an idea, emotion, or c
 Emojis can range from smiley faces and hearts to animals, food, activities, travel destinations, objects, symbols, and flags. They add color and personality to our digital conversations, making it easier to convey tone and emotion in a way that plain text sometimes can't.
 
 As of now, there are over 3,500 emojis approved by the Unicode Consortium, which is the organization responsible for maintaining the standard set of emojis used across different platforms and devices. Emojis are constantly evolving, and new ones are added each year to keep up with cultural trends and user demand.
+
+## List of emojis
+
+Here's a list of some common emojis categorized for your convenience:
+
+### Smiley Faces and Emotions
+😀 😃 😄 😁 😆 😅 😂 😊 😇 🙂 🙃 😉 😍 😘 😗 😙 😚 😋 😛 😜 😝 😤 😠 😡 😭 😱 😨 😰 😢 😥 😓 😫 😖 😣 😞 😔 😒 😲
+
+### Animals and Nature
+🐶 🐱 🐭 🐹 🐰 🦊 🐻 🐼 🐨 🐯 🦁 🦄 🐸 🐔 🐧 🦅 🦆 🌲 🌳 🌴 🌵 🌾 🌿 🍀 🌸 🌼 🌻 🌹 🌺 🌷
+
+### Food and Drink
+🍏 🍎 🍐 🍊 🍋 🍌 🍉 🍇 🍓 🍈 🍒 🍑 🍍 🥭 🥥 🥝 🍅 🍆 🥑 🥦 🥒 🌽 🌶 🍔 🍟 🍕 🌭 🍿 🍩 🍪
+
+### Travel and Places
+🏠 🏡 🏢 🏣 🏤 🏥 🏦 🏨 🏩 🏪 🏫 🏬 🏯 🏰 ⛪ 🕌 🕍 ⛩ 🕋 🗼 🗽 🏗 🏭 🏠 🏡
+
+### Activities and Sports
+⚽ 🏀 🏈 ⚾ 🎾 🏐 🏉 🎱 🏓 🏸 🏒 🏑 🥍 🏏 ⛳ 🏹 🎣 🥊 🥋 🎿 ⛷ 🏂 🛷 🏋 🏌 🚴 🚵 🏇 🏊 🏄
+
+### Objects
+🎀 🎁 🎈 🎉 🎊 🎋 🎍 🎎 🎏 🎐 🎑 🎃 👻 🎅 🎄 🎆 🎇 🧨 ✨ 🎥 🎬 🎭 🎨 🎤 🎧 🎼 🎹 🎻 🎺 🎷 🎸 🎯
+
+### Symbols
+❤️ 🧡 💛 💚 💙 💜 🖤 💔 ❣️ 💕 💞 💓 💗 💖 💘 💝 💟 🔵 🔴 🟢 🟡 🟠 🟣 🟤 ⚫ ⚪
+
+> I hope you find this list helpful! If you need any specific emojis or want more categories, let me know!
