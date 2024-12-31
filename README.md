@@ -12,6 +12,7 @@ This library holds a collection of code snippets and examples to fuel your progr
 - [Markdown](markdown) - Tips and tricks on mastering markdown syntaxes.
 - [HTML5](html5) - Unleash the Power of HTML5: The Future of Web Development.
 - [Emoji](emoji) - A small digital image with a big responsibility.
+- [Web Template](web-template) - Learn how to create a website using templates.
 
 #### Apache Web Server
 - [Using .htaccess](./htaccess/) - Explains how to use `.htaccess` in your website.
