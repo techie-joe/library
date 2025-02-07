@@ -3,7 +3,7 @@
 A treasure trove for curious coders and wondering enthusiast
 ---
 
-This library holds a collection of code snippets and examples to fuel your programming passion. Learn what is new, recall what was lost and update your knowledge with us. Build your world of possibilities. Dive in and discover!
+This library holds a collection of code snippets and examples to fuel your programming passion. Learn what is new, recall what was lost and update your knowledge with us. Continue reading and discover something new!
 
 ### Topics
 
