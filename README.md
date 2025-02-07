@@ -24,7 +24,7 @@ Techie Joe's library is licensed under the [MIT LICENSE](//github.com/techie-joe
 &nbsp;  
 ---
 
-**[My Website][website]** - [My Github Profile][profile] - [Wiki Page][wiki] - [Discussions][discussions] - [Sponsor Me][sponsor]
+**[My Website][website]** - [My Github Profile][profile] - [My Wiki][wiki] - [Discussions][discussions] - [Sponsor Me][sponsor]
 
 [website]: //techie-joe.github.io "Techie Joe's Website"
 [profile]: //github.com/techie-joe "Techie Joe's GitHub Profile"
