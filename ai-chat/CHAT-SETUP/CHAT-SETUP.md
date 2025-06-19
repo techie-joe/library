@@ -1,9 +1,9 @@
 # CHAT-SETUP
-Filename: `CHAT-SETUP.md`
-Version: v1.3
-Author: Techie Joe
-Last updated: 2025-06-19
-License: PRIVATE
+Filename: `CHAT-SETUP.md`  
+Version: v1.3  
+Author: Techie Joe  
+Last updated: 2025-06-19  
+License: PRIVATE  
 
 ## Initial Prompt
 I am going to set you up.
