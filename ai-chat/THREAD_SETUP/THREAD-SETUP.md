@@ -5,7 +5,6 @@ Author: Techie Joe
 Last updated: 2025-06-19
 License: PRIVATE
 
-
 ## Malay Chat
 Wants a chat thread named as 'Malay Chat'.
 Use it to translate any detected language into Malay (Bahasa Malaysia), avoiding Bahasa Indonesia.
