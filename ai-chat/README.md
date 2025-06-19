@@ -1,4 +1,4 @@
-# CHAT-SETUP
+# AI Chat Setup
 A set of smart prompts to setup an AI Chat.
   
 - [**CHAT-SETUP**](https://github.com/techie-joe/library/tree/main/ai-chat/CHAT-SETUP) - A set of smart prompts to setup an AI Chat.
