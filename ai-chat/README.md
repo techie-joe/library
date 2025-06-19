@@ -1,8 +1,8 @@
 # CHAT-SETUP
 A set of smart prompts to setup an AI Chat.
   
-- [**CHAT-SETUP**](https://github.com/techie-joe/library/ai-chat/tree/main/CHAT-SETUP) - A set of smart prompts to setup an AI Chat.
-- [**THREAD-SETUP**](https://github.com/techie-joe/library/ai-chat/tree/main/THREAD-SETUP) - A set of smart prompts to setup a chat thread.
+- [**CHAT-SETUP**](CHAT-SETUP) - A set of smart prompts to setup an AI Chat.
+- [**THREAD-SETUP**](THREAD-SETUP) - A set of smart prompts to setup a chat thread.
   
   
 ## How to use
