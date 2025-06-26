@@ -4,10 +4,10 @@
 IE5+ (including IE9) will replace your custom HTTP error response (e.g. 404, 500)
 with its own "friendly" message — unless the response body is longer than ~512 bytes.
 
-###💡 Why it happens:
+### 💡 Why it happens
 IE tries to be "helpful" by showing a default error page if your response body is too short.
 
-### 🧠 IE's “Friendly Error Pages” Trigger On:
+### 🧠 IE's “Friendly Error Pages” Triggers
 512-byte quirk in IE only applies to specific HTTP error status codes — not normal pages.
 
 - 400 Bad Request
@@ -29,7 +29,7 @@ If the response body is <512 bytes, IE replaces it with its own “friendly” d
 ✅ Not affected.
 IE doesn’t mess with them — your content is shown as-is, no byte minimum needed.
 
-### 🔒 Dev Tip:
+### 🔒 Dev Tip
 If you're serving error pages through Express, always make sure your custom error templates are >512 bytes — just to be safe — if you're still supporting IE (which, again, you probably shouldn't 😅).
 
 > Read [Friendly HTTP Error Pages](https://docs.microsoft.com/archive/blogs/ieinternals/friendly-http-error-pages)
